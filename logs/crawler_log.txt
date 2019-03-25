@@ -1,0 +1,6 @@
+2019-02-19 10:09:52.742403 - Error at URL https://www.epicurious.com/recipes/food/views/chocolate-plum-cake56390135: HTTP Error 404: Not Found
+2019-02-19 10:11:58.601315 - Error at URL https://www.epicurious.com/suzanne-goin-s-corned-beef-and-cabbage-with-parsley-mustard-sauce-56389323-recipe: HTTP Error 404: Not Found
+2019-02-19 10:12:30.245826 - Error at URL https://www.epicurious.com/recipes/food/views/to-peel-plantains-105639: HTTP Error 404: Not Found
+2019-02-19 10:12:30.301518 - Error at URL https://www.epicurious.com/recipes/food/views/to-wash-greens-and-chopped-sliced-leeks-241804: HTTP Error 404: Not Found
+2019-02-19 10:12:30.356813 - Error at URL https://www.epicurious.com/simple-syrup-368889-recipe: HTTP Error 404: Not Found
+2019-02-19 10:13:55.302827 - Error at URL https://www.epicurious.com/recipes/seared-scallops-with-tomato-water-lime-and-mint-51242060-recipe: HTTP Error 404: Not Found
