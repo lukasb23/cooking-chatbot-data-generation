@@ -48,7 +48,7 @@ class Recipe:
     
     def get_rating(self, page):
         try:
-            return float(page.find('span', {'class': 'rating'}).text.split('/')[0]) * 5 / 4
+            return float(page.find('span', {'class': 'rating'}).text.split('/')[0])
         except:
             return None
     

@@ -2,7 +2,8 @@
 
 Building a Cooking Chatbot to search through >35.000 recipes from Epicurious, brief YouTube demo below: 
 
-[![EpiBot Demo](https://img.youtube.com/vi/zcZn3eAQzoI/0.jpg)](https://www.youtube.com/watch?v=zcZn3eAQzoI) 
+[!
+[EpiBot Demo](https://img.youtube.com/vi/zcZn3eAQzoI/0.jpg)](https://www.youtube.com/watch?v=zcZn3eAQzoI) 
 
 #### Key points:
 - \>35k recipes extracted from epicurious.com
@@ -21,4 +22,5 @@ The project is/was running on Facebook Messenger under [EpiBot - Find your Recip
 #### Repo: 
 This repo focuses on the steps to crawl the data and prepare them for Elasticsearch. The actual app is found under [*cooking-chatbot-app*](https://github.com/lukasb23/cooking-chatbot-app).
 
-
+#### Disclaimer:
+This project is for research purposes only.
