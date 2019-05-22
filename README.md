@@ -16,7 +16,7 @@ Building a Cooking Chatbot to search through >35.000 recipes from Epicurious, br
   - Bitnami Elasticsearch-Cluster on Google Compute Engine 
   - Google Cloud Memorystore for Redis
 
-The project is/was running on Facebook Messenger under [EpiBot - Find your Recipe](https://www.facebook.com/find.your.recipe.1/?modal=admin_todo_tour) (now offline). 
+The project was running on Facebook Messenger under [EpiBot - Find your Recipe](https://www.facebook.com/find.your.recipe.1/?modal=admin_todo_tour) (now offline). 
 
 #### Repo: 
 This repo focuses on the steps to crawl the data and prepare them for Elasticsearch. The actual app is found under [*cooking-chatbot-app*](https://github.com/lukasb23/cooking-chatbot-app).
